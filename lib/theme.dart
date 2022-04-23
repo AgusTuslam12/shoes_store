@@ -4,6 +4,10 @@ import 'package:hexcolor/hexcolor.dart';
 
 Color fontColor = HexColor("#081D43");
 Color whiteColor = HexColor("#FFFFFF");
+Color buttomSelect = HexColor("#FF8848");
+Color bgColor = HexColor("#E5E5E5");
+Color navBar = HexColor("#130F26");
+Color bgDelete = HexColor("#FFDDCB");
 
 TextStyle textColor = GoogleFonts.inter(
   color: fontColor,
